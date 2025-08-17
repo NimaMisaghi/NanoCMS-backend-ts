@@ -18,5 +18,5 @@ The backend is built with **TypeScript** (Express/NestJS) and designed to be mod
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/NanoCMS-backend-ts.git
+git clone https://github.com/NimaMisaghi/NanoCMS-backend-ts.git
 cd NanoCMS-backend-ts
